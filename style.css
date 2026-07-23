@@ -1,13 +1,13 @@
 CSS
 body {
   font-family: Arial,   sans-serif;
-  background-color: f4f4f4;
-  color: 333333;
+  background-color: #f4f4f4;
+  color: #333333;
   margin: 0;
   padding: 20px;
 }
 h1 {
-  color: 003366;
+  color: #003366;
   text-align: center;
 }
 p{
@@ -16,7 +16,7 @@ p{
   text-align: center;
 }
 nav {
-  background-color: 003366;
+  background-color: #003366;
   padding: 15px;
   text-align: center;
 }
@@ -27,5 +27,5 @@ nav a {
   font-weight: bold;
 }
 nav a:hover {
-  color: 66ccff;
+  color: #66ccff;
 }
